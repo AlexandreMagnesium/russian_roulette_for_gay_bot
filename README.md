@@ -1,4 +1,6 @@
-russianrouletteforgaybot v2.0
+russian_roulette_for_gay_bot v2.0
+
+Бот написаний заради рофлу
 
 Творець: https://t.me/my_Iover / https://t.me/Alalstar
 
